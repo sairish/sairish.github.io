@@ -588,7 +588,7 @@ section .title::after{
 .project-content {
     flex: 1;
     text-align: left;
-    max-width: 30%;
+    max-width: 15%;
     padding-right: 10px;
 }
 
